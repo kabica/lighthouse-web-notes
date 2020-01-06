@@ -1,1 +1,1 @@
-# This repository contains all of the notes taken by ALEX  for the Lighthouse Labs Web Development Bootcamp.
+# This repository contains all of the notes taken by [ALEX](https://github.com/kabica) for the [Lighthouse](https://www.lighthouselabs.ca/) Labs Web Development Bootcamp.
